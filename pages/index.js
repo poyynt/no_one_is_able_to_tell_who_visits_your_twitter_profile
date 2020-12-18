@@ -17,7 +17,7 @@ export default function Home() {
           Well guess what, you can't find out.
         </h2>
         <p>
-          Every website, app, or extension that claims it could tell you in best case is a <a href="https://www.howtogeek.com/346225/can-you-see-who-viewed-your-twitter-profile/">fraud</a>, and in worst case is spying on you or tweeting stuff on behalf of you.
+          Every website, app, or extension that claims it could tell you in best case is a <a style="color: #0070f3 !important; text-decoration: underline !important;" href="https://www.howtogeek.com/346225/can-you-see-who-viewed-your-twitter-profile/">fraud</a>, and in worst case is spying on you or tweeting stuff on behalf of you.
         </p>
 
         <div>
