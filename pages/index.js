@@ -21,7 +21,7 @@ export default function Home() {
         </p>
 
         <div>
-          <p>However, if you want a list:</p>
+          <p>However, if you want a fake list anyway:</p>
           <ul>
                 <li>Your best friend probably</li>
                 <li>The person who has a crush on you</li>
