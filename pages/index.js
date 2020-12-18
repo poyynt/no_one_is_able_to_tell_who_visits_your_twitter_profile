@@ -27,7 +27,7 @@ export default function Home() {
                 <li>The person who has a crush on you</li>
                 <li>Some random folks who you don't know</li>
           </ul>
-          <p>Want more? Right click on the list, select "Inspect" and modify the list to whatever you want.</p>
+          <p>Want more? Right click on the list, select "Inspect" and modify it to whatever you want.</p>
         </div>
       </main>
 
